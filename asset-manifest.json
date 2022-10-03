@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ellys-site/static/css/main.75430f76.css",
+    "main.js": "/ellys-site/static/js/main.09695fbd.js",
+    "static/js/964.93221f5d.chunk.js": "/ellys-site/static/js/964.93221f5d.chunk.js",
+    "static/js/117.af841724.chunk.js": "/ellys-site/static/js/117.af841724.chunk.js",
+    "static/js/478.6f99f4af.chunk.js": "/ellys-site/static/js/478.6f99f4af.chunk.js",
+    "static/js/922.fefd4601.chunk.js": "/ellys-site/static/js/922.fefd4601.chunk.js",
+    "static/js/621.c63b5cb3.chunk.js": "/ellys-site/static/js/621.c63b5cb3.chunk.js",
+    "static/js/675.e9136cd8.chunk.js": "/ellys-site/static/js/675.e9136cd8.chunk.js",
+    "static/js/209.d464d894.chunk.js": "/ellys-site/static/js/209.d464d894.chunk.js",
+    "static/js/312.a89dcbe9.chunk.js": "/ellys-site/static/js/312.a89dcbe9.chunk.js",
+    "index.html": "/ellys-site/index.html",
+    "main.75430f76.css.map": "/ellys-site/static/css/main.75430f76.css.map",
+    "main.09695fbd.js.map": "/ellys-site/static/js/main.09695fbd.js.map",
+    "964.93221f5d.chunk.js.map": "/ellys-site/static/js/964.93221f5d.chunk.js.map",
+    "117.af841724.chunk.js.map": "/ellys-site/static/js/117.af841724.chunk.js.map",
+    "478.6f99f4af.chunk.js.map": "/ellys-site/static/js/478.6f99f4af.chunk.js.map",
+    "922.fefd4601.chunk.js.map": "/ellys-site/static/js/922.fefd4601.chunk.js.map",
+    "621.c63b5cb3.chunk.js.map": "/ellys-site/static/js/621.c63b5cb3.chunk.js.map",
+    "675.e9136cd8.chunk.js.map": "/ellys-site/static/js/675.e9136cd8.chunk.js.map",
+    "209.d464d894.chunk.js.map": "/ellys-site/static/js/209.d464d894.chunk.js.map",
+    "312.a89dcbe9.chunk.js.map": "/ellys-site/static/js/312.a89dcbe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75430f76.css",
+    "static/js/main.09695fbd.js"
+  ]
+}
